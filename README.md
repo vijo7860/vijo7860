@@ -1,7 +1,6 @@
 - Hi, I’m @vijo7860
 - I’m interested in applying computer science to space exploration &research
-- I’m currently studying computer science at CU Boulder.
-- I’m looking to collaborate on beginner friendly projects.
+- I’m currently studying computer science at CU Boulder
 - How to reach me: vijo7860@colorado.edu
 <!---
 vijo7860/vijo7860 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
